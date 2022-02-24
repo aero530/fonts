@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1024"
+   height="819"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="G.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Documents and Settings\spindler.p\My Documents\Fonts\MS33558">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="946"
+     inkscape:window-width="1106"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="0.95970696"
+     inkscape:cx="487.96003"
+     inkscape:cy="324.25244"
+     inkscape:window-x="147"
+     inkscape:window-y="105"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     style="opacity:0.21978024"
+     id="layer1">
+    <image
+       xlink:href="letters.bmp"
+       x="-5940"
+       y="-41"
+       width="6600"
+       height="4346.7749"
+       id="image2285" />
+  </g>
+  <g
+     id="layer2"
+     transform="matrix(1.0739385,0,0,1.0739385,-20.9418,-39.613807)">
+    <path
+       d="M 260,379 C 318.01256,379 376.02512,379 434.03769,379 C 457.12043,379 480.44573,401.55822 480.48512,424.84413 C 480.48512,524.84413 480,479 480,579 C 480,712.95038 379.79771,799 240,799 C 60,799 20,559 20,399 C 20,259 100,39 280,39 C 400,39 440,79 480,139 C 520,199 460,279 400,219 C 360,179 340,139 280,139 C 200,139 120,299 120,399 C 120,499 140,699 240,699 C 360,699 380,599 380,479 C 333.33333,479 306.66667,479 260,479 C 200,479 200,379 260,379 z "
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2324"
+       sodipodi:nodetypes="cscssssssssscsc" />
+  </g>
+</svg>

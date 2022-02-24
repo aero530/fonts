@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\spindler.p\Desktop\DIN1451H"
+   sodipodi:docname="S.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50.9"
+     guidetolerance="10"
+     objecttolerance="22.2"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="373.67058"
+     inkscape:cy="355.20507"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     width="1000px"
+     height="1000px"
+     showgrid="true"
+     gridspacingx="10px"
+     gridspacingy="10px"
+     gridempspacing="10"
+     inkscape:grid-points="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="false"
+     inkscape:object-points="true"
+     inkscape:window-width="1103"
+     inkscape:window-height="1121"
+     inkscape:window-x="159"
+     inkscape:window-y="8" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 270,250 C 215.95238,250 170.1991,278.46498 136.8125,315.03125 C 103.4259,351.59752 80,398.33333 80,450 C 80,521.11111 114.65625,565.34375 134.65625,585.34375 C 149.67793,600.36543 158.45469,601.25067 168.375,604.71875 C 178.29531,608.18683 188.72488,610.99007 200.3125,613.78125 C 223.48774,619.36361 250.95218,624.68419 278.9375,630.28125 C 306.92282,635.87831 335.35855,641.73067 358.75,647.6875 C 382.14145,653.64433 401.65923,661.30179 404.28125,662.875 C 442.51174,685.81329 450,703.33333 450,740 C 450,758.33333 445.90438,786.10315 428.75,807.15625 C 411.59562,828.20935 379.81481,850 300,850 C 217.40741,850 180.38738,834.28744 122.375,805.28125 C 106.38252,797.15723 87.263765,798.22153 72.271797,808.07038 C 57.279829,817.91923 48.711637,835.04365 49.817729,852.94716 C 50.923821,870.85066 61.534729,886.79018 77.625,894.71875 C 139.61262,925.71256 202.59259,950 300,950 C 400.18519,950 468.40438,916.79065 506.25,870.34375 C 544.09562,823.89685 550,771.66667 550,740 C 550,676.66667 517.48826,614.18671 455.71875,577.125 C 433.34077,563.69821 410.35855,557.60567 383.4375,550.75 C 356.51645,543.89433 326.82718,537.87169 298.5625,532.21875 C 270.29782,526.56581 243.38726,521.26139 223.75,516.53125 C 213.93137,514.16618 205.86875,511.88349 201.375,510.3125 C 200.79763,510.11066 200.46149,509.84454 200,509.59375 C 184.8896,495.62481 180,493.60341 180,450 C 180,431.66667 191.5741,403.40248 210.6875,382.46875 C 229.8009,361.53502 254.04762,350 270,350 C 335.2381,350 376.77357,358.57193 421.4375,376.4375 C 447.08422,386.68929 476.18571,374.20922 486.4375,348.5625 C 496.68929,322.91578 484.20922,293.81429 458.5625,283.5625 C 403.22643,261.42807 344.7619,250 270,250 z M 197.90625,508.125 C 198.05971,508.13733 198.67994,508.53337 199.875,509.53125 C 198.61641,508.82605 197.6853,508.10724 197.90625,508.125 z "
+       id="path2167" />
+  </g>
+</svg>
